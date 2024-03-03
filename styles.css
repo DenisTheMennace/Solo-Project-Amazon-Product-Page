@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+}
+
+.breadcrumb {
+    color: #565959;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    margin-right: 30px;
+    height: 600px;
+}
+
+.title {
+    font-weight: lighter;
+    padding-top: 30px
+}
+
+.author {
+    font-weight: normal;
+    font-size: 18px;
+}
+
+.author a {
+    color: #007185;
+}
+
+.ratings {
+    width: 150px;
+    margin-bottom: -15px
+}
+
+.subheader {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+    padding-right: 50px
+}
